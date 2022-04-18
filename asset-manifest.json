@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8e44244f.css",
+    "main.js": "/static/js/main.04fecb3c.js",
+    "static/media/banner-1.jpeg": "/static/media/banner-1.e1d0ed0916eb98a6a297.jpeg",
+    "static/media/banner-3.jpeg": "/static/media/banner-3.f5727742082cd4040d86.jpeg",
+    "static/media/banner-2.jpeg": "/static/media/banner-2.9f02515d48f00176c770.jpeg",
+    "static/media/client-bg.jpeg": "/static/media/client-bg.0819460dcd19e743525a.jpeg",
+    "static/media/testimonials1.jpeg": "/static/media/testimonials1.80149e7fa3e8ab20824f.jpeg",
+    "static/media/bg-1.jpeg": "/static/media/bg-1.26088cda85569687bc64.jpeg",
+    "static/media/testimonials2.jpeg": "/static/media/testimonials2.3608b5b0a16a5b3f0536.jpeg",
+    "static/media/s-5.jpeg": "/static/media/s-5.a7c8ba0077590a482385.jpeg",
+    "static/media/logo2.png": "/static/media/logo2.440c46f37ae113aacd63.png",
+    "static/media/logo3.png": "/static/media/logo3.b872f03a9a2b5e30b626.png",
+    "static/media/logo5.png": "/static/media/logo5.48fbbfac49bacab6fe51.png",
+    "static/media/news3.jpeg": "/static/media/news3.713746fe56878016b911.jpeg",
+    "static/media/logo1.png": "/static/media/logo1.5b2c416cce42da388352.png",
+    "static/media/s-3.jpeg": "/static/media/s-3.94751128a078ffb2c39f.jpeg",
+    "static/media/product2.jpeg": "/static/media/product2.113ce3363c2b08ad1ad1.jpeg",
+    "static/media/logo4.png": "/static/media/logo4.1dd518615bcb2eba1e92.png",
+    "static/media/logo6.png": "/static/media/logo6.2dfa37fbd7ff209d3e20.png",
+    "static/media/s-6.jpeg": "/static/media/s-6.37ea96631e58a40a0139.jpeg",
+    "static/media/news1.jpeg": "/static/media/news1.9664c19f341e6677dd32.jpeg",
+    "static/media/product1.jpeg": "/static/media/product1.0b9ca3ae0e5c4198721c.jpeg",
+    "static/media/bg3.jpeg": "/static/media/bg3.e90dc820cad6a435b670.jpeg",
+    "static/media/s-4.jpeg": "/static/media/s-4.b7f15410a5055102d285.jpeg",
+    "static/media/s-2.jpeg": "/static/media/s-2.33cae7b186a6d42a89ac.jpeg",
+    "static/media/product3.jpeg": "/static/media/product3.d2f806b1d3d729aa14b7.jpeg",
+    "static/media/s1.jpeg": "/static/media/s1.83a627a3b093fa6c6c59.jpeg",
+    "static/media/news2.jpeg": "/static/media/news2.64db0de877337b443624.jpeg",
+    "index.html": "/index.html",
+    "main.8e44244f.css.map": "/static/css/main.8e44244f.css.map",
+    "main.04fecb3c.js.map": "/static/js/main.04fecb3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e44244f.css",
+    "static/js/main.04fecb3c.js"
+  ]
+}
